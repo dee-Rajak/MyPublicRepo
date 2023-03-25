@@ -50,8 +50,216 @@
                     "designation": "Member",
                     "phone": "8637824532",
                     "mail": "b200076@nitsikkim.ac.in"
+                },
+                {
+                    "profileImage": "",
+                    "name": "",
+                    "designation": "",
+                    "phone": "",
+                    "mail": ""
                 }
             ]
+        },
+        {
+            "advisory": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "app": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "discipline": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "creativity": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "cultural": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "event": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "financial": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "guest": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "hospitality": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "infrastructure": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "marketing": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "merchandise": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "photography": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "publicity": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "sponsorship": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "technical": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "web": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Dummy",
+                    "designation": "Dead",
+                    "phone": "1234567891",
+                    "mail": "dummy@gmail.com"
+                }
+            ]
+        },
+        {
+            "dummy":[]
         }
     ]
 }
