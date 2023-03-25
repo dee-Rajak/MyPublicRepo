@@ -1,0 +1,57 @@
+{
+    "teams": [
+        {
+            "core": [
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=1JQrtIdUk8iue7AgyGq6ySFDNXHz6YD8T",
+                    "name": "Pankaj Joshi",
+                    "designation": "President",
+                    "phone": "8755396485",
+                    "mail": "b190138@nitsikkim.ac.in"
+                },
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=1dqttQ9FGUWHtRV3izG-iQ2APmmhxO5hq",
+                    "name": "Choden Tamang",
+                    "designation": "Vice President",
+                    "phone": "",
+                    "mail": ""
+                },
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=1pnIkOUgxUaNAXPmZPpSfe8j63LV2vBQ6",
+                    "name": "Aman Prasad",
+                    "designation": "Treasurer",
+                    "phone": "",
+                    "mail": ""
+                },
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+                    "name": "Aman Saurav",
+                    "designation": "Secretary",
+                    "phone": "7384128688",
+                    "mail": "b200054@nitsikkim.ac.in"
+                },
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=1WHvEbACHGVocwTib10YSt7gwj-au0lJn",
+                    "name": "Visakha Kumari",
+                    "designation": "Geneal Secretary",
+                    "phone": "",
+                    "mail": ""
+                },
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=1MgcsJTjYtc0eBEed-qvYmbdIzYpC0F12",
+                    "name": "Sidarth Prasad",
+                    "designation": "Joint Secretary",
+                    "phone": "",
+                    "mail": ""
+                },
+                {
+                    "profileImage": "https://drive.google.com/uc?export=download&id=1BVihB9njOPZP12FxZTxWl7l9rqotvyrz",
+                    "name": "Siddharth Utsav",
+                    "designation": "Member",
+                    "phone": "8637824532",
+                    "mail": "b200076@nitsikkim.ac.in"
+                }
+            ]
+        }
+    ]
+}
