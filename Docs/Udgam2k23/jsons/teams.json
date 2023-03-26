@@ -64,14 +64,14 @@
             "advisory": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "advisory1",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
                 },
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "advisory2",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -82,7 +82,7 @@
             "app": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "app",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -93,7 +93,7 @@
             "content": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "content",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -104,7 +104,7 @@
             "discipline": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "discipline",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -115,7 +115,7 @@
             "creativity": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "creativity",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -126,7 +126,7 @@
             "cultural": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "cultural",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -137,7 +137,7 @@
             "event": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "event",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -148,7 +148,7 @@
             "financial": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "financial",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -159,7 +159,7 @@
             "guest": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "guest",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -170,7 +170,7 @@
             "hospitality": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "hospitality",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -181,7 +181,7 @@
             "infrastructure": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "infrastructure",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -192,7 +192,7 @@
             "marketing": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "marketing",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -203,7 +203,7 @@
             "merchandise": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "merchandise",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -214,7 +214,7 @@
             "photography": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "photography",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -225,7 +225,7 @@
             "publicity": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "publicity",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -236,7 +236,7 @@
             "sponsorship": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "sponsorship",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -247,7 +247,7 @@
             "technical": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "technical",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
@@ -258,7 +258,7 @@
             "web": [
                 {
                     "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-                    "name": "Dummy",
+                    "name": "web",
                     "designation": "Dead",
                     "phone": "1234567891",
                     "mail": "dummy@gmail.com"
