@@ -702,17 +702,10 @@
       "web": [
         {
           "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Manish Kumar Pandit",
+          "name": "Anmol Kumar Sharma",
           "designation": "Member",
-          "phone": "8873514280",
-          "mail": "b200060@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Vishal Kumar",
-          "designation": "Member",
-          "phone": "9608851340",
-          "mail": "b200059@nitsikkim.ac.in"
+          "phone": "9771729061",
+          "mail": "b210007@nitsikkim.ac.in"
         },
         {
           "profileImage": "https://drive.google.com/uc?export=download&id=  ",
@@ -723,19 +716,27 @@
         },
         {
           "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "name": "Vishal Kumar",
+          "designation": "Member",
+          "phone": "9608851340",
+          "mail": "b200059@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "name": "Manish Kumar Pandit",
+          "designation": "Member",
+          "phone": "8873514280",
+          "mail": "b200060@nitsikkim.ac.in"
+        },
+
+
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
           "name": "Jigmee W. Sherpa",
           "designation": "Member",
           "phone": "7908546144",
           "mail": "b200044@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Anmol Kumar Sharma",
-          "designation": "Member",
-          "phone": "9771729061",
-          "mail": "b210007@nitsikkim.ac.in"
         }
-
       ]
     },
     {
