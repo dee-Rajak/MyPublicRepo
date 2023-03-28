@@ -32,8 +32,8 @@
         },
         {
           "profileImage": "https://drive.google.com/uc?export=download&id=1WHvEbACHGVocwTib10YSt7gwj-au0lJn",
-          "name": "Visakha Kumari",
-          "designation": "Geneal Secretary",
+          "name": "Vishakha Kumari",
+          "designation": "General Secretary",
           "phone": "9693440218",
           "mail": "b200121@nitsikkim.ac.in"
         },
@@ -41,207 +41,323 @@
           "profileImage": "https://drive.google.com/uc?export=download&id=1MgcsJTjYtc0eBEed-qvYmbdIzYpC0F12",
           "name": "Sidarth Prasad",
           "designation": "Joint Secretary",
-          "phone": "",
+          "phone": "7047079399",
           "mail": "b200074@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1BVihB9njOPZP12FxZTxWl7l9rqotvyrz",
-          "name": "Siddharth Utsav",
-          "designation": "Member",
-          "phone": "8637824532",
-          "mail": "b200076@nitsikkim.ac.in"
-        }
-        ,
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id= ",
-          "name": "Zameer Ahmad Ansari",
-          "designation": "Member",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1KtvYnbGP1mQ71W9lZbs4oEDZ1hPhLSVC",
+          "name": "Zameer Ahmed Ansari",
+          "designation": "Core Member",
           "phone": "9588633193",
           "mail": "b200032@nitsikkim.ac.in"
-        }
-        ,
+        },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1WqamR0sfTeJ-NivLFsDMPpk_d5Zyv9A5",
+          "name": "Siddharth Utsav",
+          "designation": "Core Member",
+          "phone": "8637824532",
+          "mail": "b200076@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1HAHLm6jHI1SxmuTo6StZ61C5UVVdGl4V",
           "name": "Suruchi Sharma",
-          "designation": "Member",
+          "designation": "Core Member",
           "phone": "9883052966",
           "mail": "b200034@nitsikkim.ac.in"
         },
         {
           "profileImage": "https://drive.google.com/uc?export=download&id=",
           "name": "Diwakar Singh",
-          "designation": "Member",
+          "designation": "Core Member",
           "phone": "",
           "mail": "b200147@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1TpKyvz5u_BvnWGySiz9eVOo-F7qve0jI",
+          "name": "Sevak Akhil Shantilal",
+          "designation": "Core Member",
+          "phone": "9082401537",
+          "mail": "b200134@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1rS8YGRjlcWoaAjgDRFlA2ipPzq2UzdFf",
           "name": "Mohit Joshi",
-          "designation": "Member",
-          "phone": "",
+          "designation": "Core Member",
+          "phone": "6296995093",
           "mail": "b210055@nitsikkim.ac.in"
-        }
-        ,
-       
+        },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id= ",
-          "name": "Sakshi Verma",
-          "designation": "Member",
-          "phone": "6389235119",
-          "mail": "b210142@nitsikkim.ac.in"
-        }
-        ,
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=",
-          "name": "Swastik Chakraborty",
-          "designation": "Member",
-          "phone": "7980375230",
-          "mail": "b210144@nitsikkim.ac.in"
-        }
-        ,
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "profileImage": "https://drive.google.com/uc?export=download&id=14oammoF1kfiYzRq5m0_ZVHDvrNwI92Qh",
           "name": "Navjeevan Kumar",
-          "designation": "Member",
+          "designation": "Core Member",
           "phone": "6202797550",
           "mail": "b210082@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=17dmst-PIrEiLAlRZgTGtxHgeuFOZN-kx",
+          "name": "Sakshi Verma",
+          "designation": "Core Member",
+          "phone": "6389235119",
+          "mail": "b210142@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1wGLvbkQY7k7r7qhohwU__P1M54C9IqyX",
+          "name": "Swastik Chakraborty",
+          "designation": "Core Member",
+          "phone": "7980375230",
+          "mail": "b210144@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1D5IIgd9ZSTTMO7-6EOogWmn_bECVXD15",
+          "name": "Jitendra Kumar",
+          "designation": "Financial Committee",
+          "phone": "9559024523",
+          "mail": "b200133@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "name": "Vishnu Kumar",
+          "designation": "Financial Committee",
+          "phone": "8445429741",
+          "mail": "b200155@nitsikkim.ac.in"
         }
-        
-        
       ]
     },
     {
       "advisory": [
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Saurav Kumar",
-            "designation": "Member",
-            "phone": "7761907120",
-            "mail": "b190065@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Dhiraj Sharma",
-            "designation": "Member",
-            "phone": "9641821629",
-            "mail": "b190102@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id= ",
-            "name": "Sanjay Tiwari",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190088@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-            "name": "Sonu Kr. Shah",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190091@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Shivam Jaiswal",
-            "designation": "Member",
-            "phone": "7477631174",
-            "mail": "b190034@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Aanchal Soni",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190045@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Abhishek Thakur",
-            "designation": "Member",
-            "phone": "7761907120",
-            "mail": "b190001@nitsikkim.ac.in"
-          },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1pnNBKsoeA8EOSS4Nkcjk7y2gssLWH3YP",
+          "name": "Abhishek Thakur",
+          "designation": "Member",
+          "phone": "7761907120",
+          "mail": "b190001@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1Myt9YMKJS9rjMAJMrrxRwvGHreDLvDS2",
+          "name": "Shivam Jaiswal",
+          "designation": "Member",
+          "phone": "7477631174",
+          "mail": "b190034@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1-DYZItkeCnfFXyVKfCGUtUpWoU8IE9c2",
+          "name": "Aanchal Soni",
+          "designation": "Member",
+          "phone": "9264203799",
+          "mail": "b190045@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1WuIahmLTTT-TpQWjrUtmsOuCvtuAeUon",
+          "name": "Govardhan Reddy",
+          "designation": "Member",
+          "phone": "",
+          "mail": "b190052@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1iY8ar86Czevt9wd6zZMEI5FBazo866jM",
+          "name": "Rishabh Tenguria",
+          "designation": "Member",
+          "phone": "9520313045",
+          "mail": "b190062@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1HwjYqPReqLVnwluXM5TltbxjiSQGCuWW",
+          "name": "Saurav Kumar",
+          "designation": "Member",
+          "phone": "7761907120",
+          "mail": "b190065@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1J9GXdM2JqYG-R6o_cMG0nfFVHOY0L_xm",
+          "name": "Srishti Prasad",
+          "designation": "Member",
+          "phone": "6294219783",
+          "mail": "b190068@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1gHgVf66JgEN9O0PPvBpwSXUJZt9b2ABQ",
+          "name": "Sanjay Tiwari",
+          "designation": "Member",
+          "phone": "",
+          "mail": "b190088@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=12DcFIxuJAGvsgT2x8761TFrPRCBvPG2d",
+          "name": "Sonu Kr. Shah",
+          "designation": "Member",
+          "phone": "",
+          "mail": "b190091@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1vVzlkxA7MeSki48-JOjxU5IPAUSfNpDZ",
+          "name": "Sushil Chettri",
+          "designation": "Member",
+          "phone": "",
+          "mail": "b190093@nitsikkim.ac.in"
+        },
 
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Sushil Chettri",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190093@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Rishabh Tenguria",
-            "designation": "Member",
-            "phone": "9520313045",
-            "mail": "b190062@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=",
-            "name": "Rohan Kumar Sahu",
-            "designation": "Member",
-            "phone": "9735058325",
-            "mail": "b190143@nitsikkim.ac.in"
-          },
-          
-          {
-            "profileImage": " https://drive.google.com/uc?export=download&id= ",
-            "name": "Srishti Prasad",
-            "designation": "Member",
-            "phone": "6294219783",
-            "mail": "b190068@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-            "name": "Govardhan Reddy",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190052@nitsikkim.ac.in"
-          },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1tAaq1M5_KcB6ejlkQ6FeujN9T20b6yJ5",
+          "name": "Dhiraj Sharma",
+          "designation": "Member",
+          "phone": "9641821629",
+          "mail": "b190102@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1d67zy0XGmd0WpqyofSYjRR6-v15dpGxu",
+          "name": "Saurabh Awasthi",
+          "designation": "Member",
+          "phone": "",
+          "mail": "b190113@nitsikkim.ac.in"
+        },
 
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-            "name": "SamsherAli",
-            "designation": "Member",
-            "phone": "9749581631",
-            "mail": "b190145@nitsikkim.ac.in"
-          },
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-            "name": "Saurabh Awasthi",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190113@nitsikkim.ac.in"
-          },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1tgAv1uotXDlGPsucBXukOPAdxAgBCZ9Q",
+          "name": "Jitendra Pratap Singh",
+          "designation": "Member",
+          "phone": "9559024523",
+          "mail": "b190133@nitsikkim.ac.in"
+        },
 
-          {
-            "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-            "name": "Kushagra Anand",
-            "designation": "Member",
-            "phone": "",
-            "mail": "b190134@nitsikkim.ac.in"
-          }
-        ]
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=13N9wj82ziQ7FD1tgsHLgh63wRxYX2uuE",
+          "name": "Kushagra Anand",
+          "designation": "Member",
+          "phone": "",
+          "mail": "b190134@nitsikkim.ac.in"
+        },
+
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1CumIR1mzCMAWG1HzEmuVfc7B7ca52PQd",
+          "name": "Rohan Kumar Sahu",
+          "designation": "Member",
+          "phone": "9735058325",
+          "mail": "b190143@nitsikkim.ac.in"
+        },
+
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1xEnpdIULxSjpxet2GGUUHZOEzi2shX4N",
+          "name": "Samsher Ali",
+          "designation": "Member",
+          "phone": "9749581631",
+          "mail": "b190145@nitsikkim.ac.in"
+        }
+      ]
+    },
+
+    {
+      "coordinators": [
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
+          "name": "Aman Saurav",
+          "designation": "Secretary",
+          "phone": "7384128688",
+          "mail": "b200054@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1WHvEbACHGVocwTib10YSt7gwj-au0lJn",
+          "name": "Vishakha Kumari",
+          "designation": "General Secretary",
+          "phone": "9693440218",
+          "mail": "b200121@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1MgcsJTjYtc0eBEed-qvYmbdIzYpC0F12",
+          "name": "Sidarth Prasad",
+          "designation": "Joint Secretary",
+          "phone": "7047079399",
+          "mail": "b200074@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1KtvYnbGP1mQ71W9lZbs4oEDZ1hPhLSVC",
+          "name": "Zameer Ahmed Ansari",
+          "designation": "Core Member",
+          "phone": "9588633193",
+          "mail": "b200032@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1WqamR0sfTeJ-NivLFsDMPpk_d5Zyv9A5",
+          "name": "Siddharth Utsav",
+          "designation": "Core Member",
+          "phone": "8637824532",
+          "mail": "b200076@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1HAHLm6jHI1SxmuTo6StZ61C5UVVdGl4V",
+          "name": "Suruchi Sharma",
+          "designation": "Core Member",
+          "phone": "9883052966",
+          "mail": "b200034@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "name": "Diwakar Singh",
+          "designation": "Core Member",
+          "phone": "",
+          "mail": "b200147@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1TpKyvz5u_BvnWGySiz9eVOo-F7qve0jI",
+          "name": "Sevak Akhil Shantilal",
+          "designation": "Core Member",
+          "phone": "9082401537",
+          "mail": "b200134@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1rS8YGRjlcWoaAjgDRFlA2ipPzq2UzdFf",
+          "name": "Mohit Joshi",
+          "designation": "Core Member",
+          "phone": "6296995093",
+          "mail": "b210055@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=14oammoF1kfiYzRq5m0_ZVHDvrNwI92Qh",
+          "name": "Navjeevan Kumar",
+          "designation": "Core Member",
+          "phone": "6202797550",
+          "mail": "b210082@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=17dmst-PIrEiLAlRZgTGtxHgeuFOZN-kx",
+          "name": "Sakshi Verma",
+          "designation": "Core Member",
+          "phone": "6389235119",
+          "mail": "b210142@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1wGLvbkQY7k7r7qhohwU__P1M54C9IqyX",
+          "name": "Swastik Chakraborty",
+          "designation": "Core Member",
+          "phone": "7980375230",
+          "mail": "b210144@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1D5IIgd9ZSTTMO7-6EOogWmn_bECVXD15",
+          "name": "Jitendra Kumar",
+          "designation": "Financial Committee",
+          "phone": "9559024523",
+          "mail": "b200133@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "name": "Vishnu Kumar",
+          "designation": "Financial Committee",
+          "phone": "8445429741",
+          "mail": "b200155@nitsikkim.ac.in"
+        }
+      ]
     },
     {
       "app": [
-        
         {
-          "profileImage": " https://drive.google.com/uc?export=download&id= ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1ugzOrjnElag-8DslzC5znyzmOJH9u58l",
           "name": "Dhiren Kumar Ranjan",
           "designation": "Member",
           "phone": "9382038024",
           "mail": "b200040@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Aman Saurav",
-          "designation": "Member",
-          "phone": "7384128688",
-          "mail": "b200054@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1IsrJPlDB9ZbZ6VmzqySlW1nV89YD_cuX",
           "name": "Pranshu Jaiswal",
           "designation": "Member",
           "phone": "8250574639",
@@ -265,40 +381,41 @@
           "phone": "8004390973",
           "mail": "b200094@nitsikkim.ac.in"
         },
+
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Priyanka Sharma",
-          "designation": "Member",
-          "phone": "9679817475",
-          "mail": "b210059@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": " https://drive.google.com/uc?export=download&id= ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1TeFr8VVW6BC1DozO7YrN6zagMYuPsfo_",
           "name": "Shubham Sharma",
           "designation": "Member",
           "phone": "7098213317",
           "mail": "b200045@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=1xm66FO8K-QVqhSn-8j16bMa1OkC3CUfJ",
+          "name": "Priyanka Sharma",
+          "designation": "Member",
+          "phone": "9679817475",
+          "mail": "b210059@nitsikkim.ac.in"
         }
       ]
     },
     {
       "discipline": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1rldEFz9Ska2WVNx92yTvWMq4rk41TY7y",
           "name": "Mini",
           "designation": "Member",
           "phone": "9079281922",
           "mail": "b200099@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1nahGDnv9qzdhb_TxLr0bkZ3-3fuWuD1T",
           "name": "Aniket Gupta",
           "designation": "Member",
           "phone": "6296014362",
           "mail": "b200107@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1X2gZqS_eEtqqP9tu14ujFGPAev5KgCXV",
           "name": "Purnasish Pattnayak",
           "designation": "Member",
           "phone": "8145712682",
@@ -308,10 +425,8 @@
     },
     {
       "creativity": [
-        
- 
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1OME83kTaCcu1s4T08N9mLzxDLWHq7vfk",
           "name": "Harishankar Kumar",
           "designation": "Member",
           "phone": "9735995988",
@@ -325,7 +440,7 @@
           "mail": "b200144@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1FfEN-Y_B7mI1tJoxINf530ynJ4SFHEXl",
           "name": "Abhijit Mondol",
           "designation": "Member",
           "phone": "7890838959",
@@ -336,38 +451,38 @@
     {
       "cultural": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1P_ywmLTnV1_K6Af6i5BmTtm9Yo1GxogS",
           "name": "Nikila Bhutia",
           "designation": "Member",
           "phone": "7699873994",
           "mail": "b200001@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1KoUhkxjd7-VcqIC8F475gRyf3m8G3E88",
           "name": "Priya Jain",
           "designation": "Member",
           "phone": "9931972929",
           "mail": "b200156@nitsikkim.ac.in"
         },
-        
+
         {
-          "profileImage": " https://drive.google.com/uc?export=download&id= ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=14RBvE_kvoUG_qK9WyAaF-iKqxIaJOiPV",
           "name": "Saumya Ranjan",
           "designation": "Member",
           "phone": "7667194470",
           "mail": "b210027@nitsikkim.ac.in"
         },
- 
+
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1w7TqZE5hWD1zJI2ptRfJ3VArD-ZF_Lpq",
           "name": "Riyansh Shamra",
           "designation": "Member",
           "phone": "",
           "mail": "b200071@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Sarath Namburi",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1XbzoWzbc4FsyfJhW2Jv-K_DUfkkZe2XO",
+          "name": "Namburi Sarath",
           "designation": "Member",
           "phone": "9603583249",
           "mail": "b200086@nitsikkim.ac.in"
@@ -377,22 +492,22 @@
     {
       "event": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1nItbnV6mwphAgDw3hH0BXxsuBLHUcyL9",
           "name": "Amrisha Nigam",
           "designation": "Member",
           "phone": "8570066049",
           "mail": "b200046@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Anvitha Dhanisetty",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1CJ5pud0UNr6qjmLBLqjkwGb7T-MdI9kR",
+          "name": "Dhanisetty Sai Anvitha",
           "designation": "Member",
           "phone": "9392484584",
           "mail": "b200065@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Bhanuja Karumuru",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1_OaNtdGxApNSeCJg2h24pieLLvOYy8HL",
+          "name": "K Bhanuja Karumuru",
           "designation": "Member",
           "phone": "9014127370",
           "mail": "b200087@nitsikkim.ac.in"
@@ -405,7 +520,7 @@
           "mail": "b210048@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1c6WIlQP4-64xAin59hS0qQwsJjILzwt_",
           "name": "Swetha Patel",
           "designation": "Member",
           "phone": "9490873267",
@@ -413,50 +528,32 @@
         }
       ]
     },
-    {
-      "financial": [
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Jitendra Kumar",
-          "designation": "Member",
-          "phone": "9559024523",
-          "mail": "b200133@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Vishnu Kumar",
-          "designation": "Member",
-          "phone": "8445429741",
-          "mail": "b200155@nitsikkim.ac.in"
-        }
-      ]
-    },
+
     {
       "guest": [
-
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
           "name": "Nafeesa Fatima",
           "designation": "Member",
           "phone": "9883052966",
           "mail": "b200075@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1yj0iO6E7sdeWht0LaT33D-bnOPIBHgm-",
           "name": "Ritika Kumari",
           "designation": "Member",
           "phone": "6206281151",
           "mail": "b210086@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
           "name": "Puru Jindal",
           "designation": "Member",
           "phone": "9811680472",
           "mail": "b210084@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=19036mm0pklqPs-KE3d1437TPDs05N51r",
           "name": "Anamika Kumari",
           "designation": "Member",
           "phone": "9572539383",
@@ -467,28 +564,28 @@
     {
       "hospitality": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1pTQpfOyFdNMbUXxHjPSQV0aQuAZJYqge",
           "name": "Ashish Garg",
           "designation": "Member",
           "phone": "7734814965",
           "mail": "b200065@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
           "name": "Anurag Singh",
           "designation": "Member",
           "phone": "",
           "mail": "b200058@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1YYcE0SjmtEs0IEnLZGT73QxV0Wk3FEkX",
           "name": "Sandhya Kumari",
           "designation": "Member",
           "phone": "8674888317",
           "mail": "b210118@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1q6W1LaoShaJ-6Dl8ROg0LRw9etPVTnpV",
           "name": "Sarika Gautam",
           "designation": "Member",
           "phone": "7541006796",
@@ -499,28 +596,28 @@
     {
       "infrastructure": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1YQB9kkZrokYfFySmfNffgxAW4PG-Al-3",
           "name": "Arpit Paul",
           "designation": "Member",
           "phone": "9647097750",
           "mail": "b200118@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1AdsOd5rB6GWEL7-iqAimLz08yxOumLVq",
           "name": "Sayak Dutta",
           "designation": "Member",
           "phone": "9647097750",
           "mail": "b200122@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1IPuVChP4KpUsK_TYKrZ4nKEfhhW4_Enw",
           "name": "Amit Negi",
           "designation": "Member",
           "phone": "9258052799",
           "mail": "b210019@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
           "name": "Saksham Kumar",
           "designation": "Member",
           "phone": "6207931927",
@@ -531,68 +628,79 @@
     {
       "marketing": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1AV4jUKe7bZbhkw7G01gsZTrVXDu_HR8p",
           "name": "Himanshu Kumar",
           "designation": "Member",
           "phone": "8804263496",
           "mail": "b200136@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=19ZgRw8xfuzd2DqxYoq8iXj4CWCWwnOTB",
           "name": "Abhishek Jaluthria",
           "designation": "Member",
           "phone": "6367342459",
           "mail": "b210124@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1LZQeY3J7h_QDmy_K3QtWhtjFT6-EFZzv",
           "name": "Riya Bhagat",
           "designation": "Member",
           "phone": "9883559958",
           "mail": "b210119@nitsikkim.ac.in"
+        },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "name": "Pallisetti Sai Sampath",
+          "designation": "Member",
+          "phone": "6303824117",
+          "mail": "b21057@nitsikkim.ac.in"
         }
       ]
     },
     {
       "merchandise": [
-
- 
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
           "name": "Snehita Ram Marri",
           "designation": "Member",
           "phone": "8445429741",
           "mail": "b210138@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1dyJLGMo2AMocWZVaUb7HpBOd0f7UAwgG",
           "name": "Tanmay Tejas",
           "designation": "Member",
-          "phone": "",
+          "phone": "9608352540",
           "mail": "b200140@nitsikkim.ac.in"
         }
-
       ]
     },
     {
       "photography": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "B. Abhisheknayak",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1jHQd9cjIW2srBnBn1mmD3p5eZ1vCWMgD",
+          "name": "B. Abhishek Nayak",
           "designation": "Member",
           "phone": "9700419650",
           "mail": "b200128@nitsikkim.ac.in"
         },
+        {
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "name": "Debojit Chatterjee",
+          "designation": "Member",
+          "phone": "7076683364",
+          "mail": "b210131@nitsikkim.ac.in"
+        },
 
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1Bc9yFq6D7AwcyUUgwbbc9aLuGuTUugmj",
           "name": "Namepalli Sai Santhosh",
           "designation": "Member",
           "phone": "8374627611",
           "mail": "b210016@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=11QCy-eCPi89tW7EKc5TC0NGBtAAkmS1u",
           "name": "Shorabh Singh",
           "designation": "Member",
           "phone": "7404577793",
@@ -603,28 +711,28 @@
     {
       "publicity": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1sHX9GiVGDZZ9WpmaNuykm8szy5LtKofA",
           "name": "Balwant Singh",
           "designation": "Member",
           "phone": "9548552262",
           "mail": "b210044@nitsikkim.ac.in"
         },
         {
-          "profileImage": " https://drive.google.com/uc?export=download&id= ",
+          "profileImage": " https://drive.google.com/uc?export=download&id=1fgvXYxXN8WkMvErHNwNQ9FPO6QPOiLoZ",
           "name": "Pushkar Srivastav",
           "designation": "Member",
           "phone": "9044498381",
           "mail": "b210112@nitsikkim.ac.in"
         },
         {
-          "profileImage": " https://drive.google.com/uc?export=download&id= ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1W3eiGGn_NafyPhN_oK3yhv8DWus4InbT",
           "name": "Jadhav Vinayak",
           "designation": "Member",
           "phone": "9371613483",
           "mail": "b210013@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1hYoAjbzk7h0xtqKoHlumnGUqjC60XPJB",
           "name": "Raj Singh",
           "designation": "Member",
           "phone": "9874163385",
@@ -642,21 +750,21 @@
           "mail": "b200062@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1C8yke8HQIoO6l57PurY7k-rDOX9Ln6T_",
           "name": "Rohit Mohan Roy",
           "designation": "Member",
           "phone": "7584855761",
           "mail": "b200033@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Sevak Akhil",
+          "profileImage": "https://drive.google.com/uc?export=download&id=168EfNhjWFwFTDPFr-84BFuNqS3CRSaIV",
+          "name": "Tathagat Bhanj Dev",
           "designation": "Member",
-          "phone": "",
-          "mail": "b200134@nitsikkim.ac.in"
+          "phone": "7430918783",
+          "mail": "b200072@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=16939PA1kizZbEuTdwGKd94roXntnavnj",
           "name": "Anchal Gupta",
           "designation": "Member",
           "phone": "7719315013",
@@ -664,7 +772,7 @@
         },
 
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1G8YDJVmR4GAbc7N6CU308MOJQUzfNRt5",
           "name": "Akriti Jha",
           "designation": "Member",
           "phone": "8016664783",
@@ -674,23 +782,22 @@
     },
     {
       "technical": [
-        
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1nYF5NOf9U-dVAPs4BDBiIc-ev1Zpc5g1",
           "name": "Adarsh Kumar",
           "designation": "Member",
           "phone": "8112460230",
           "mail": "b200089@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=19CNu0xsS_UN8_FHOAVxB1PNLWhDjsl68",
           "name": "Koushik Roy",
           "designation": "Member",
           "phone": "8116974803",
           "mail": "b210051@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1QlJ6MLq-LW0gaOBBerrVcW8PQuha3vHK",
           "name": "Hansraj Singh Rawat",
           "designation": "Member",
           "phone": "9414705810",
@@ -701,41 +808,32 @@
     {
       "web": [
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Anmol Kumar Sharma",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1cYTYIWXWwLJf86o4TEAh84aobTMZlWUd",
+          "name": "Jigmee W. Sherpa",
           "designation": "Member",
-          "phone": "9771729061",
-          "mail": "b210007@nitsikkim.ac.in"
+          "phone": "7908546144",
+          "mail": "b200044@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Joshua Biswakarma",
+          "profileImage": "https://drive.google.com/uc?export=download&id=",
+          "name": "Manish Kumar Pandit",
           "designation": "Member",
-          "phone": "7427910748",
-          "mail": "b210014@nitsikkim.ac.in"
+          "phone": "8873514280",
+          "mail": "b200060@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1MBj6EOuo9qDt7f-zkPoardIWbG5guRYW",
           "name": "Vishal Kumar",
           "designation": "Member",
           "phone": "9608851340",
           "mail": "b200059@nitsikkim.ac.in"
         },
         {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Manish Kumar Pandit",
+          "profileImage": "https://drive.google.com/uc?export=download&id=1_I3xWyy1cQSj-8dIxz1zJ5HCrrNhE0bv",
+          "name": "Joshua Biswakarma",
           "designation": "Member",
-          "phone": "8873514280",
-          "mail": "b200060@nitsikkim.ac.in"
-        },
-
-
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=  ",
-          "name": "Jigmee W. Sherpa",
-          "designation": "Member",
-          "phone": "7908546144",
-          "mail": "b200044@nitsikkim.ac.in"
+          "phone": "7427910748",
+          "mail": "b210014@nitsikkim.ac.in"
         }
       ]
     },
