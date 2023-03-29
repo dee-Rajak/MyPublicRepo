@@ -245,113 +245,12 @@
       ]
     },
 
-    {
-      "coordinators": [
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=10dsAM4pprb2Mo_dsxiM8nHxj-R1s9GNG",
-          "name": "Aman Saurav",
-          "designation": "Secretary",
-          "phone": "7384128688",
-          "mail": "b200054@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1WHvEbACHGVocwTib10YSt7gwj-au0lJn",
-          "name": "Vishakha Kumari",
-          "designation": "General Secretary",
-          "phone": "9693440218",
-          "mail": "b200121@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1MgcsJTjYtc0eBEed-qvYmbdIzYpC0F12",
-          "name": "Sidarth Prasad",
-          "designation": "Joint Secretary",
-          "phone": "7047079399",
-          "mail": "b200074@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1KtvYnbGP1mQ71W9lZbs4oEDZ1hPhLSVC",
-          "name": "Zameer Ahmed Ansari",
-          "designation": "Core Member",
-          "phone": "9588633193",
-          "mail": "b200032@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1WqamR0sfTeJ-NivLFsDMPpk_d5Zyv9A5",
-          "name": "Siddharth Utsav",
-          "designation": "Core Member",
-          "phone": "8637824532",
-          "mail": "b200076@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1HAHLm6jHI1SxmuTo6StZ61C5UVVdGl4V",
-          "name": "Suruchi Sharma",
-          "designation": "Core Member",
-          "phone": "9883052966",
-          "mail": "b200034@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1fnGMbvFedPGR3a5drnhmXu8qDb0NpolG",
-          "name": "Diwakar Singh",
-          "designation": "Core Member",
-          "phone": "8058723611",
-          "mail": "b200147@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1TpKyvz5u_BvnWGySiz9eVOo-F7qve0jI",
-          "name": "Sevak Akhil Shantilal",
-          "designation": "Core Member",
-          "phone": "9082401537",
-          "mail": "b200134@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1rS8YGRjlcWoaAjgDRFlA2ipPzq2UzdFf",
-          "name": "Mohit Joshi",
-          "designation": "Core Member",
-          "phone": "6296995093",
-          "mail": "b210055@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=14oammoF1kfiYzRq5m0_ZVHDvrNwI92Qh",
-          "name": "Navjeevan Kumar",
-          "designation": "Core Member",
-          "phone": "6202797550",
-          "mail": "b210082@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=17dmst-PIrEiLAlRZgTGtxHgeuFOZN-kx",
-          "name": "Sakshi Verma",
-          "designation": "Core Member",
-          "phone": "6389235119",
-          "mail": "b210142@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1wGLvbkQY7k7r7qhohwU__P1M54C9IqyX",
-          "name": "Swastik Chakraborty",
-          "designation": "Core Member",
-          "phone": "7980375230",
-          "mail": "b210144@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1D5IIgd9ZSTTMO7-6EOogWmn_bECVXD15",
-          "name": "Jitendra Kumar",
-          "designation": "Financial Committee",
-          "phone": "9559024523",
-          "mail": "b200133@nitsikkim.ac.in"
-        },
-        {
-          "profileImage": "https://drive.google.com/uc?export=download&id=1F4MuqPt2Mkz5gz_NArKiVd7zgtJYVikU",
-          "name": "Vishnu Kumar",
-          "designation": "Financial Committee",
-          "phone": "8445429741",
-          "mail": "b200155@nitsikkim.ac.in"
-        }
-      ]
-    },
+
     {
       "app": [
         {
           "profileImage": "https://drive.google.com/uc?export=download&id=1ugzOrjnElag-8DslzC5znyzmOJH9u58l",
-          "name": "Dhiren Kumar Ranjan",
+          "name": "Dhireen Kumar Ranjan",
           "designation": "Member",
           "phone": "9382038024",
           "mail": "b200040@nitsikkim.ac.in"
