@@ -377,13 +377,14 @@
     {
       "day3": [
         {
-          "imageLink": "",
-          "title": "Bombay Talkies",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
+          "imageLink": "https://drive.google.com/uc?export=download&id=1McI5uoT5cGur04Tnt6XS_63gW8mo_I2k",
+          "title": "Tamasha",
+          "tagline": "Emotions In Motions",
+          "time": "Will be updated soon",
+          "venue": "Will be updated soon",
           "registration_link": "",
           "rule_book": "",
+
           "name1": "Swetha Patel",
           "email1": "b200158@nitsikkim.ac.in",
           "phone1": "9490873267",
@@ -391,20 +392,20 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-
-          "status": ""
+          "status": "Not Live"
         },
+
         {
           "imageLink": "",
           "title": "Momentum",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
+          "tagline": "Sholay Ke Chole",
+          "time": "Will be updated soon",
+          "venue": "Will be updated soon",
           "registration_link": "",
           "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
+          "name1": "Dhanisetty Anvitha",
+          "email1": "b200065@nitsikkim.ac.in",
+          "phone1": "",
 
           "name2": "",
           "email2": "",
@@ -412,53 +413,18 @@
 
           "status": ""
         },
-        {
-          "imageLink": "",
-          "title": "Talk Show",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
 
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Stand-up Comedy",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
         {
           "imageLink": "",
           "title": "ALFAZ",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
+          "tagline": "",
+          "time": "Will be updated soon",
+          "venue": "Will be updated soon",
           "registration_link": "",
           "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
+          "name1": "Tanmay Tejas",
+          "email1": "",
+          "phone1": "",
 
           "name2": "",
           "email2": "",
@@ -467,49 +433,14 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "DJ Night",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Tamasha",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/uc?export=download&id=1LvCxcCGysDwGaYjXeGfSzONNUU793qYf",
           "title": "Food Fiesta",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
+          "tagline": "Festival of Flavours",
+          "time": "Will be updated soon",
+          "venue": "Will be updated soon",
           "registration_link": "",
-          "rule_book": "",
+          "rule_book": "https://drive.google.com/file/d/1h4RuadYYBYy9hrODggRh-I-Bb9iYvqEE/view?usp=sharing",
+
           "name1": "Swetha Patel",
           "email1": "b200158@nitsikkim.ac.in",
           "phone1": "9490873267",
@@ -518,101 +449,16 @@
           "email2": "",
           "phone2": "",
 
-          "status": ""
+          "status": "Not Live"
         },
+
+
         {
           "imageLink": "",
-          "title": "Cultural Night",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Instrumental",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Box Office",
-          "tagline": "step into the spotlight",
-          "time": "12 PM - 1 PM",
-          "venue": "Vajra",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Dhanisetty Sai Anvitha",
-          "email1": "b200065@nitsikkim.ac.in",
-          "phone1": "9392484584",
-
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Drishya",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Tambola Stall",
-          "tagline": "Phir se",
-          "time": "5:00",
-          "venue": "ground",
-          "registration_link": "",
-          "rule_book": "",
-          "name1": "Swetha Patel",
-          "email1": "b200158@nitsikkim.ac.in",
-          "phone1": "9490873267",
-          "name2": "",
-          "email2": "",
-          "phone2": "",
-
-          "status": ""
-        },
-        {
-          "imageLink": "",
-          "title": "Comic Designing",
-          "tagline": "Snap! Crackle! Comic!",
-          "time": "12 PM - 1 PM",
-          "venue": "Multi Purpose Hall(MPH)",
+          "title": "Champak Returs",
+          "tagline": "Beyond Reality",
+          "time": "Will be updated soon",
+          "venue": "Will be updated soon",
           "registration_link": "",
           "rule_book": "",
           "name1": "BHANUJA KARUMURU",
