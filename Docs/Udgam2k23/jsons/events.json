@@ -16,7 +16,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": "Register"
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ",
@@ -32,7 +32,7 @@
           "name2": "Harsh Srivastav",
           "email2": "b210048@nitsikkim.ac.in",
           "phone2": "+917985692734",
-          "status": "Register"
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1czmRz5M02qd3c2V1UaB5yazL49WwyaPp",
@@ -48,7 +48,7 @@
           "name2": "Harsh Srivastav",
           "email2": "b210048@nitsikkim.ac.in",
           "phone2": "+917985692734",
-          "status": "Register"
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1czmRz5M02qd3c2V1UaB5yazL49WwyaPp",
@@ -64,7 +64,7 @@
           "name2": "Harsh Srivastav",
           "email2": "b210048@nitsikkim.ac.in",
           "phone2": "+917985692734",
-          "status": "Register"
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=131pqLfuc0NCZmtzujHHzjmWDnCANpcPP",
@@ -80,7 +80,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": "Register"
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1oorbRvYNhMgy7eFy7XxtSYGG8M8ugdHD",
@@ -96,7 +96,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": "Register"
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1cEbVpOKKwdfJO5BkY1rc3lDuItb_vREw",
@@ -112,7 +112,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": ""
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1vfsliwlUrcnVuGP8uydVlU06akFktkA6",
@@ -129,7 +129,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": ""
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1agXaQQOS78eD4SIFEGfgHhG2yPTLV2sG",
@@ -145,7 +145,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": ""
+          "status": "Not Live"
         },
 
         
@@ -167,7 +167,7 @@
           "email2": "",
           "phone2": "",
 
-          "status": ""
+          "status": "Not Live"
         },
         {
           "imageLink": "https://drive.google.com/uc?export=download&id=1CYPlj-ij61QlAlheCqEEvmXHgllPjMqX",
@@ -186,7 +186,7 @@
           "email2": "",
           "phone2": "",
 
-          "status": ""
+          "status": "Not Live"
         },
 
         {
@@ -205,7 +205,7 @@
           "name2": "",
           "email2": "",
           "phone2": "",
-          "status": ""
+          "status": "Not Live"
         },
 
         {
@@ -225,7 +225,7 @@
           "email2": "",
           "phone2": "",
 
-          "status": ""
+          "status": "Not Live"
         }
       ]
     },
