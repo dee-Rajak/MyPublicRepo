@@ -7,25 +7,132 @@
   }
   ,
   {
-    "sponsor_name": "TBA",
+    "sponsor_name": "NHPC",
+    "sponsor_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNHPC&psig=AOvVaw122otv5KGrlso7x6v8p0SP&ust=1681411361349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODKjcz_pP4CFQAAAAAdAAAAABAD",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":"http://www.nhpcindia.com/"
+  }
+  ,
+  {
+    "sponsor_name": "Buddha Park Residency",
+    "sponsor_image": "https://hotelbuddhaparkravangla.com/images/logo.png",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":"https://hotelbuddhaparkravangla.com/"
+  }
+  ,
+  {
+    "sponsor_name": "Ravongla Star",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":"https://www.tripadvisor.in/Hotel_Review-g1234789-d6765528-Reviews-Hotel_Ravongla_Star-Ravangla_South_Sikkim_Sikkim.html"
+  }
+  ,
+  {
+    "sponsor_name": "Snowlion Security Service",
     "sponsor_image": "",
     "sponsor_type": "Sponsor",
     "sponsor_link":""
   }
   ,
   {
-    "sponsor_name": "TBA",
+    "sponsor_name": "Gangtokian.com",
+    "sponsor_image": "",
+    "sponsor_type": "Media Partner",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Zemofy",
+    "sponsor_image": "",
+    "sponsor_type": "Merchandise Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Get set Go",
     "sponsor_image": "",
     "sponsor_type": "Sponsor",
     "sponsor_link":""
   }
   ,
   {
-    "sponsor_name": "TBA",
+    "sponsor_name": "Quince Entertainment",
+    "sponsor_image": "",
+    "sponsor_type": "Entertainment Partner",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Mayfair",
     "sponsor_image": "",
     "sponsor_type": "Sponsor",
     "sponsor_link":""
   }
+  ,
+  {
+    "sponsor_name": "Roots & Shoots",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Ramada by Wyndham",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Sugandhim",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Anil Kumar Agarwal",
+    "sponsor_image": "",
+    "sponsor_type": "Ravangla Bazaar, Namchi",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Sushil Trading Service",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Ram Niwas",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "The Alnus Ravangla",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Sikkim Express",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  ,
+  {
+    "sponsor_name": "Manoj Kr. Khendelwal",
+    "sponsor_image": "",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":""
+  }
+  
+  
   
 ]
 }
