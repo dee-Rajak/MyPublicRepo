@@ -8,7 +8,7 @@
   ,
   {
     "sponsor_name": "NHPC",
-    "sponsor_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNHPC&psig=AOvVaw122otv5KGrlso7x6v8p0SP&ust=1681411361349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODKjcz_pP4CFQAAAAAdAAAAABAD",
+    "sponsor_image": "https://en.wikipedia.org/wiki/NHPC#/media/File:NHPC_Logo_PNG_File.png",
     "sponsor_type": "Sponsor",
     "sponsor_link":"http://www.nhpcindia.com/"
   }
@@ -29,55 +29,63 @@
   ,
   {
     "sponsor_name": "Snowlion Security Service",
-    "sponsor_image": "",
-    "sponsor_type": "Sponsor",
-    "sponsor_link":""
+    "sponsor_image": "http://snowlionsecuritys.com/wp-content/uploads/2020/07/logo.png",
+    "sponsor_type": "Security Partner",
+    "sponsor_link":"http://snowlionsecuritys.com/"
   }
   ,
   {
     "sponsor_name": "Gangtokian.com",
-    "sponsor_image": "",
+    "sponsor_image": "https://www.gangtokian.com/wp-content/uploads/2023/03/Gangtokian.com_.png",
     "sponsor_type": "Media Partner",
-    "sponsor_link":""
+    "sponsor_link":"https://www.gangtokian.com/"
   }
   ,
   {
     "sponsor_name": "Zemofy",
-    "sponsor_image": "",
+    "sponsor_image": "https://static.wixstatic.com/media/684e6d_4313ed38368d456a9398fee923d0ad07~mv2.png/v1/fit/w_2500,h_1330,al_c/684e6d_4313ed38368d456a9398fee923d0ad07~mv2.png",
     "sponsor_type": "Merchandise Sponsor",
-    "sponsor_link":""
+    "sponsor_link":"https://www.zemofy.com/"
   }
   ,
-  {
-    "sponsor_name": "Get set Go",
-    "sponsor_image": "",
-    "sponsor_type": "Sponsor",
-    "sponsor_link":""
-  }
-  ,
+
   {
     "sponsor_name": "Quince Entertainment",
     "sponsor_image": "",
     "sponsor_type": "Entertainment Partner",
-    "sponsor_link":""
+    "sponsor_link":"https://instagram.com/quinceentertainment?igshid=YmMyMTA2M2Y="
   }
   ,
   {
     "sponsor_name": "Mayfair",
-    "sponsor_image": "",
+    "sponsor_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-lptNLHHgRBr-WVHGuESnZuPPgSzVR3BcqAU1vt6MY5YWTazRMuaM84or7ztzYT29J8&usqp=CAU",
     "sponsor_type": "Sponsor",
-    "sponsor_link":""
+    "sponsor_link":"https://www.mayfairhotels.com/gangtok.php"
+  }
+  ,
+  {
+    "sponsor_name": "Sikkim Express",
+    "sponsor_image": "https://s3-ap-southeast-1.amazonaws.com/paperboy-papers/paperboy-paper-image/h2jh1542868964863-abc.jpg",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":"https://www.sikkimexpress.com/"
   }
   ,
   {
     "sponsor_name": "Roots & Shoots",
     "sponsor_image": "",
     "sponsor_type": "Sponsor",
-    "sponsor_link":""
+    "sponsor_link":"https://www.tripadvisor.in/Restaurant_Review-g1234789-d8532774-Reviews-Roots_and_Shoots-Ravangla_South_Sikkim_Sikkim.html"
   }
   ,
   {
     "sponsor_name": "Ramada by Wyndham",
+    "sponsor_image": "https://www.wyndhamhotels.com/content/dam/images/global/logos/ra_bywynd_rgb_solid.svg",
+    "sponsor_type": "Sponsor",
+    "sponsor_link":"https://www.wyndhamhotels.com/ramada/gangtok-india/ramada-by-wyndham-gangtok-hotel-casino-golden/overview"
+  }
+  ,
+  {
+    "sponsor_name": "Get set Go",
     "sponsor_image": "",
     "sponsor_type": "Sponsor",
     "sponsor_link":""
@@ -118,13 +126,7 @@
     "sponsor_link":""
   }
   ,
-  {
-    "sponsor_name": "Sikkim Express",
-    "sponsor_image": "",
-    "sponsor_type": "Sponsor",
-    "sponsor_link":""
-  }
-  ,
+
   {
     "sponsor_name": "Manoj Kr. Khendelwal",
     "sponsor_image": "",
